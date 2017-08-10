@@ -1,2 +1,2 @@
 # WordCount
-Test Assignment for CSI company
+Test Assignment for CSI company. Apache Spark WordCount example.
